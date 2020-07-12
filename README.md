@@ -1,2 +1,2 @@
-# ExcelHelper
-Little helpers for C# csv and Excel file processing using NPOI mainly.
+# RFC-Connector-Sample
+A simple sample of Dot Net RFC Connector V2.
